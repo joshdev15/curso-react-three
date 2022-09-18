@@ -1,4 +1,6 @@
-# React || Threejs Course
+# React | Threejs
+
+### Basic Course
 
 ![Preview](public/Preview.png)
 
